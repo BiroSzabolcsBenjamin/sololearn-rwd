@@ -167,7 +167,9 @@ body {
 .submenu a:hover{
     background-color: #468486;
 }
-
+a {
+    text-decoration: none;
+}
 @media screen and (max-width: 600px) {
     body {
         background-color: blue;
